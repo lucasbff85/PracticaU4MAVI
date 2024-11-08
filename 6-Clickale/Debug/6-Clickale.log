@@ -1,0 +1,5 @@
+﻿  Juego.cpp
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU4LucasBoffa\6-Clickale\Juego.h(48,29): warning C4244: 'argumento': conversión de 'float' a 'unsigned int'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU4LucasBoffa\6-Clickale\Juego.h(87,56): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU4LucasBoffa\6-Clickale\Juego.h(87,39): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+  6-Clickale.vcxproj -> D:\PROGRAMACION\UNL-Tecnicatura Desarrollo de Videojuegos\Modelos y Algoritmos para Videojuegos I\PracticaU4LucasBoffa\Debug\6-Clickale.exe
